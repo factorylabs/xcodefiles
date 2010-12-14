@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+git submodule foreach git checkout master
+git submodule foreach git pull --rebase
+echo -e "Updating Files"
+cp -f community/liyanage-macros/MyMacros.xctxtmacro specifications/liyanage.xctxtmacro
+echo -e "Done"
+git status
