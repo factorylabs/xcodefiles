@@ -6,11 +6,11 @@ A collection of themes, macros, user scripts and settings for working in Xcode. 
 
 ## Installation & Contents
 
-Before you start symlinking your files, make sure you back up the original directories. Otherwise there is a good chance you'll overwrite your own awesomeness. 
+Before you start symlinking your files, make sure you back up the original directories. Otherwise there is a good chance you'll overwrite your own awesomeness.
 
 1. Clone this repository
 - `cd ~/path/to/xcodefiles/`
-- `bash update` 
+- `bash update`
 - start syncing away based on the directory contents below
 
 
@@ -46,5 +46,7 @@ This directory is reserved for submodules from various community repositories an
 ## Todo
 
 1. Get User Scripts setup
+- Get GD's User Scripts in
 - Sync up with the other F/ peops and their settings
 - Finish documenting the process in the README
+
