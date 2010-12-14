@@ -11,7 +11,7 @@
 		<key>Selection</key>
 		<string>1.000 0.824 0.510</string>
 		<key>xcode.syntax.attribute</key>
-		<string>0.000 0.000 1.000</string>
+		<string>1.000 0.588 0.000</string>
 		<key>xcode.syntax.character</key>
 		<string>0.239 0.612 0.000</string>
 		<key>xcode.syntax.comment</key>
@@ -20,67 +20,77 @@
 		<string>0.600 0.600 0.600</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
 		<string>0.600 0.600 0.600</string>
+		<key>xcode.syntax.entity</key>
+		<string>0.665 0.052 0.569</string>
+		<key>xcode.syntax.entity.start</key>
+		<string>0.665 0.052 0.569</string>
+		<key>xcode.syntax.identifier</key>
+		<string>0.000 0.000 0.000</string>
 		<key>xcode.syntax.identifier.class</key>
 		<string>0.000 0.000 1.000</string>
 		<key>xcode.syntax.identifier.class.system</key>
-		<string>0.000 0.392 1.000</string>
+		<string>0.000 0.000 1.000</string>
 		<key>xcode.syntax.identifier.constant</key>
-		<string>0.000 0.000 1.000</string>
+		<string>0.627 0.000 0.000</string>
 		<key>xcode.syntax.identifier.constant.system</key>
-		<string>0.000 0.000 1.000</string>
+		<string>0.627 0.000 0.000</string>
 		<key>xcode.syntax.identifier.function</key>
-		<string>0.000 0.000 1.000</string>
+		<string>1.000 0.392 0.000</string>
 		<key>xcode.syntax.identifier.function.system</key>
-		<string>0.000 0.000 1.000</string>
+		<string>1.000 0.392 0.000</string>
 		<key>xcode.syntax.identifier.macro</key>
 		<string>0.239 0.612 0.000</string>
 		<key>xcode.syntax.identifier.macro.system</key>
-		<string>0.239 0.612 0.000</string>
+		<string>1.000 0.588 0.000</string>
+		<key>xcode.syntax.identifier.plain</key>
+		<string>0.000 0.000 0.000</string>
 		<key>xcode.syntax.identifier.type</key>
-		<string>0.000 0.000 1.000</string>
+		<string>0.000 0.388 1.000</string>
 		<key>xcode.syntax.identifier.type.system</key>
-		<string>0.000 0.000 1.000</string>
+		<string>0.000 0.388 1.000</string>
 		<key>xcode.syntax.identifier.variable</key>
-		<string>0.000 0.000 0.000</string>
+		<string>1.000 0.000 0.000</string>
 		<key>xcode.syntax.identifier.variable.system</key>
-		<string>0.000 0.000 0.000</string>
+		<string>1.000 0.000 1.000</string>
 		<key>xcode.syntax.keyword</key>
-		<string>0.000 0.000 1.000</string>
+		<string>0.000 0.392 1.000</string>
+		<key>xcode.syntax.number</key>
+		<string>0.333 0.333 0.333</string>
 		<key>xcode.syntax.plain</key>
 		<string>0.000 0.000 0.000</string>
 		<key>xcode.syntax.preprocessor</key>
-		<string>0.600 0.600 0.600</string>
+		<string>1.000 0.588 0.000</string>
 		<key>xcode.syntax.string</key>
 		<string>0.239 0.612 0.000</string>
 		<key>xcode.syntax.url</key>
-		<string>0.239 0.612 0.000</string>
+		<string>0.000 0.792 0.792</string>
 		<key>xcode.syntax.url.mail</key>
 		<string>0.239 0.612 0.000</string>
 	</dict>
 	<key>Fonts</key>
 	<dict>
 		<key>xcode.syntax.attribute</key>
-		<string>Meslo LG M - 12.0</string>
+		<string>MesloLGM - 12.0</string>
 		<key>xcode.syntax.character</key>
-		<string>Meslo LG M - 12.0</string>
+		<string>MesloLGM - 12.0</string>
 		<key>xcode.syntax.comment</key>
-		<string>Meslo LG M - 12.0</string>
+		<string>MesloLGM - 12.0</string>
 		<key>xcode.syntax.comment.doc</key>
-		<string>Meslo LG M - 12.0</string>
+		<string>MesloLGM - 12.0</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
-		<string>Meslo LG M - 12.0</string>
+		<string>MesloLGM - 12.0</string>
 		<key>xcode.syntax.keyword</key>
-		<string>Meslo LG M - 12.0</string>
+		<string>MesloLGM - 12.0</string>
 		<key>xcode.syntax.number</key>
-		<string>Meslo LG M - 12.0</string>
+		<string>MesloLGM - 12.0</string>
 		<key>xcode.syntax.plain</key>
-		<string>Meslo LG M - 12.0</string>
+		<string>MesloLGM - 12.0</string>
 		<key>xcode.syntax.preprocessor</key>
-		<string>Meslo LG M - 12.0</string>
+		<string>MesloLGM - 12.0</string>
 		<key>xcode.syntax.string</key>
-		<string>Meslo LG M - 12.0</string>
+		<string>MesloLGM - 12.0</string>
 		<key>xcode.syntax.url</key>
-		<string>Meslo LG M - 12.0</string>
+		<string>MesloLGM - 12.0</string>
 	</dict>
 </dict>
 </plist>
