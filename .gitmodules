@@ -1,0 +1,3 @@
+[submodule "community/liyanage-macros"]
+	path = community/liyanage-macros
+	url = https://github.com/liyanage/xcode-text-macros.git
